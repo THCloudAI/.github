@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We're THCloud Team!</h1>
-<h3 align="center">A passionate GenAI/Blockchain development team from Thailand.</h3>
+<h3 align="center">A passionate GenAI/Blockchain R&D team from Thailand.</h3>
 
 - 🔭 We're currently working on [IPFS/Filecoin](https://github.com/filecoin-project)
 
