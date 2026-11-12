@@ -34,8 +34,4 @@ We build deep-tech AI systems — agent platforms, self-hosted model infrastruct
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
 </p>
 
-## Open source
-
-[thctl](https://github.com/THCloudAI/thctl) — Go CLI for our storage and compute · [thcloud-mcp](https://github.com/THCloudAI/thcloud-mcp) — MCP servers · [markitdown-api](https://github.com/THCloudAI/markitdown-api) — document → markdown API · [genai-toolbox-demo](https://github.com/THCloudAI/genai-toolbox-demo) — MCP Toolbox on PostgreSQL
-
 **Work with us** — [hi@thcloud.ai](mailto:hi@thcloud.ai)
