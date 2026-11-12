@@ -1,23 +1,66 @@
-<h1 align="center">Hi 👋, We're THCloud Team!</h1>
-<h3 align="center">A passionate GenAI/Blockchain R&D team from Thailand.</h3>
+<div align="center">
 
-- 🔭 We're currently working on [IPFS/Filecoin](https://github.com/filecoin-project)
+<img src="https://raw.githubusercontent.com/THCloudAI/thcloud-landing-page/main/logo.png" alt="THCloud.AI" height="72">
 
-- 👯 We're looking to collaborate on **GenAI and Blockchain business models**
+# THCloud.AI
 
-- 👨‍💻 All of my projects are available at [https://github.com/thcloudai](https://github.com/thcloudai)
+**AI solutions for real business outcomes.**
 
-- 💬 Ask me about **LLMs、Decentrilized Data Storage、GPU servers**
+We design, build and operate AI systems for real businesses — together with the self-hosted platform that runs them.
 
-- 📫 How to reach me **hi@thcloud.ai**
+[thcloud.ai](https://thcloud.ai/en) · [hi@thcloud.ai](mailto:hi@thcloud.ai) · [@thcloudai](https://x.com/thcloudai)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thcloudai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thcloudai" height="30" width="40" /></a>
+</div>
+
+---
+
+## What we do
+
+- **Applied GenAI** — assistants, document understanding and agent workflows that reach production. Our LINE customer-service agent answers end users with a human in the loop for approvals.
+- **Platform engineering** — we run our own stack end to end: a model gateway, media portal, headless CMS, client data services, email and time tracking. Every service below is something we operate, not something we resell.
+- **Agent interoperability** — MCP servers so coding agents can drive our platform directly ([thcloud-mcp](https://github.com/THCloudAI/thcloud-mcp), [genai-toolbox-demo](https://github.com/THCloudAI/genai-toolbox-demo)).
+- **Data collection** — pipelines that gather and structure social and web data, delivered to client apps through an API gateway rather than direct database access.
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+| Layer | What we run |
+|---|---|
+| **Edge & identity** | Cloudflare for DNS, WAF and Workers · Authentik SSO across internal apps |
+| **Compute** | Docker and Docker Compose on Linux hosts · NetBird mesh VPN between sites |
+| **Data** | PostgreSQL · self-hosted Supabase · MinIO (S3-compatible object storage) · Prefect for per-client ETL |
+| **AI platform** | LiteLLM model gateway (OpenAI-compatible chat, transcription and speech) · MCP servers · ComfyUI diffusion workflows · MindsDB for knowledge-base search |
+| **Business apps** | Directus (headless CMS) · MediaCMS (media portal) · Kimai (time tracking) · Listmonk (newsletter) · Postiz (social scheduling) |
+| **Integrations** | LINE Messaging API · Google Workspace · webhooks and agent-driven automation |
+| **Languages** | Python · TypeScript · Go · Node.js · React · SQL · Shell |
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/THCloudAI"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="THCloudAI" /></a></p><br><br>
+## Open source
+
+| Repository | What it is |
+|---|---|
+| [thctl](https://github.com/THCloudAI/thctl) | Command-line interface to manage THCloud data storage and compute resources from the terminal — Go |
+| [thcloud-mcp](https://github.com/THCloudAI/thcloud-mcp) | Custom MCP server Docker images, exposed through a Docker MCP Gateway |
+| [markitdown-api](https://github.com/THCloudAI/markitdown-api) | API wrapper around Microsoft MarkItDown, with a Streamlit UI — Python |
+| [genai-toolbox-demo](https://github.com/THCloudAI/genai-toolbox-demo) | MCP Toolbox for Databases demo against PostgreSQL |
+| [thcloud-landing-page](https://github.com/THCloudAI/thcloud-landing-page) | Our landing page |
+
+The LINE customer-service agent, the client data services (Prefect ETL: sync, embeddings, campaign sync, matching) and the social scraping pipeline are private — ask us about them.
+
+## Work with us
+
+Mail **hi@thcloud.ai** — or open an issue on the repository you came here from.
