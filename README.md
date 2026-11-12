@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/THCloudAI/thcloud-landing-page/main/logo.png" alt="THCloud.AI" height="72">
+<img src="assets/logo.png" alt="THCloud.AI" height="72">
 
 # THCloud.AI
 
