@@ -14,13 +14,6 @@ We build deep-tech AI systems — agent platforms, self-hosted model infrastruct
 
 ---
 
-## What we do
-
-- **Agent systems in production** — multi-channel AI agents with human-in-the-loop approvals, handling live customer traffic.
-- **Our own AI platform** — a self-hosted model gateway, media portal and MCP servers, so agents can operate the stack directly.
-- **Data engineering** — collection, ETL, embeddings and matching pipelines that turn raw web data into client services.
-- **Generative media** — diffusion workflows and automated video pipelines.
-
 <p>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
